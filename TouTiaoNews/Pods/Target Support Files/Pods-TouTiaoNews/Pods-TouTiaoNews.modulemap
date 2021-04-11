@@ -1,0 +1,6 @@
+module Pods_TouTiaoNews {
+  umbrella header "Pods-TouTiaoNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
